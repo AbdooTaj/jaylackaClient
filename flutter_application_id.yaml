@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "online.jaylack.jaylack"
+    name: "jaylack"
+  ios:
+    id: "online.jaylack.jaylack"
+    name: "jaylack"

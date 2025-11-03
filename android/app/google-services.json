@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "606732434593",
+    "firebase_url": "https://academic-tenure-354821-default-rtdb.firebaseio.com",
+    "project_id": "academic-tenure-354821",
+    "storage_bucket": "academic-tenure-354821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606732434593:android:e41d030a7b7d038ff8c4e0",
+        "android_client_info": {
+          "package_name": "jaylack.jaylack.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606732434593-hcgu4vmvq3fq1ickiol88k3juh79mg43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jaylack.jaylack.driver",
+            "certificate_hash": "f4eb2496c79003b5d63803e309744d6632ec1ae8"
+          }
+        },
+        {
+          "client_id": "606732434593-np9lnpkli3god6ees2rekgbnhs95m4df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jaylack.jaylack.driver",
+            "certificate_hash": "9a8c2770355b6ce94baa6286984467ccfbe2a9b8"
+          }
+        },
+        {
+          "client_id": "606732434593-3t84r9p0o4rm7knee7456rfp8b2if7kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3eQelSLy_6Ywi0dLYZVCXm1BwrYcYHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606732434593-3t84r9p0o4rm7knee7456rfp8b2if7kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606732434593:android:4181870809ee55adf8c4e0",
+        "android_client_info": {
+          "package_name": "online.jaylack.jaylack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606732434593-e2n4jduefc59ir44kebbr03pm5272e84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jaylack.jaylack",
+            "certificate_hash": "cdceaa15beb5dc88d971aca275d51d34865e2af1"
+          }
+        },
+        {
+          "client_id": "606732434593-fn8lg24omt8sr68j5jk2l7k9ba4tsiek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jaylack.jaylack",
+            "certificate_hash": "f4eb2496c79003b5d63803e309744d6632ec1ae8"
+          }
+        },
+        {
+          "client_id": "606732434593-3t84r9p0o4rm7knee7456rfp8b2if7kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3eQelSLy_6Ywi0dLYZVCXm1BwrYcYHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606732434593-3t84r9p0o4rm7knee7456rfp8b2if7kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
